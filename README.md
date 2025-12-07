@@ -1,0 +1,4 @@
+"# BotifyAI" 
+pipenv install langchain langchain_community langchain_huggingface faiss-cpu pypdf
+pipenv install huggingface_hub
+pipenv install streamlit
